@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_item">ÚJ</string>
+    <string name="add_new_todo_item">Új elem hozzáadása</string>
+    <string name="write_something_here">Mit szeretne csinálni?</string>
+    <string name="add">HOZZÁAD</string>
+    <string name="text">text for testing</string>
+    <string name="progress">Előrehaladás</string>
+    <string name="delete">Törlés</string>
+    <string name="toast_progressed">Előrehaladva</string>
+    <string name="toast_deleted">Törölve</string>
+    <string name="toast_item_added">Hozzáadva</string>
+    <string name="toast_progress_over3">Nem tud tovább haladni. Listaelem törölve</string>
+</resources>

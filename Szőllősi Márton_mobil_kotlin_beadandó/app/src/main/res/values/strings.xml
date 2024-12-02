@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Kanban Board</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="doing" translatable="false">DOING</string>
+    <string name="done" translatable="false">DONE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="new_item">NEW</string>
+    <string name="add_new_todo_item">Add new TODO item!</string>
+    <string name="write_something_here">What are you planning to do?</string>
+    <string name="add">ADD</string>
+    <string name="text">text for testing</string>
+    <string name="progress">Progress</string>
+    <string name="delete">Delete</string>
+    <string name="toast_progressed">Progressed</string>
+    <string name="toast_deleted">Deleted</string>
+    <string name="toast_item_added">Added item</string>
+    <string name="toast_progress_over3">Cannot be progressed further. Item deleted</string>
+</resources>
